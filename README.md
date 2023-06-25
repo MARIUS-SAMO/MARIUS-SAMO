@@ -1,5 +1,6 @@
-### Hi there 👋
+#   Marius SAMO
 
+**`Data Science | Machine Learning | Deep Learning | AI `**
 ---
 
 ## 🧰 Languages and Tools
